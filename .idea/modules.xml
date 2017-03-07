@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MutilSahke/MutilSahke.iml" filepath="$PROJECT_DIR$/MutilSahke/MutilSahke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestProjects.iml" filepath="$PROJECT_DIR$/TestProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoWidgetLib/VideoWidgetLib.iml" filepath="$PROJECT_DIR$/VideoWidgetLib/VideoWidgetLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appTest/appTest.iml" filepath="$PROJECT_DIR$/appTest/appTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caijin/caijin.iml" filepath="$PROJECT_DIR$/caijin/caijin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handlerimageortext/handlerimageortext.iml" filepath="$PROJECT_DIR$/handlerimageortext/handlerimageortext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mixturetextview/mixturetextview.iml" filepath="$PROJECT_DIR$/mixturetextview/mixturetextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paintdemo/paintdemo.iml" filepath="$PROJECT_DIR$/paintdemo/paintdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycleviewdemo/recycleviewdemo.iml" filepath="$PROJECT_DIR$/recycleviewdemo/recycleviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycleviewtypelibrary/recycleviewtypelibrary.iml" filepath="$PROJECT_DIR$/recycleviewtypelibrary/recycleviewtypelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofittest/retrofittest.iml" filepath="$PROJECT_DIR$/retrofittest/retrofittest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitweather/retrofitweather.iml" filepath="$PROJECT_DIR$/retrofitweather/retrofitweather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharetest/sharetest.iml" filepath="$PROJECT_DIR$/sharetest/sharetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/styledecoration/styledecoration.iml" filepath="$PROJECT_DIR$/styledecoration/styledecoration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdemo/testdemo.iml" filepath="$PROJECT_DIR$/testdemo/testdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textandgraphics/textandgraphics.iml" filepath="$PROJECT_DIR$/textandgraphics/textandgraphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/urlfilesoperation/urlfilesoperation.iml" filepath="$PROJECT_DIR$/urlfilesoperation/urlfilesoperation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volleydemoapp/volleydemoapp.iml" filepath="$PROJECT_DIR$/volleydemoapp/volleydemoapp.iml" />
+    </modules>
+  </component>
+</project>

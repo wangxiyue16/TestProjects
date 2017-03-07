@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="128dp"
+                tools:context="com.imooc.testandroid.mix.FlowTextViewActivity">
+
+    <com.zhy.view.MixtureTextView
+        android:id="@+id/id_mixtureTextview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f4f3ff"
+        android:padding="16dp"
+        android:text="@string/text1"
+        android:textColor="#ff5d75"
+        android:textSize="14sp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/icon"/>
+    </com.zhy.view.MixtureTextView>
+
+</RelativeLayout>

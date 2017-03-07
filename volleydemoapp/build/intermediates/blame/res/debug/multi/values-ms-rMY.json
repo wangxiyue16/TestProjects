@@ -1,0 +1,976 @@
+[
+    {
+        "outputFile": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\res\\merged\\debug\\values-ms-rMY\\values-ms-rMY.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 110,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 110,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 107,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 107,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 122,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 122,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 104,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 104,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endColumn": 107,
+                    "endOffset": 655
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 107,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 660,
+                    "endColumn": 86,
+                    "endOffset": 742
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 86,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 747,
+                    "endColumn": 103,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endColumn": 103,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endColumn": 110,
+                    "endOffset": 957
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 110,
+                        "endOffset": 907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 962,
+                    "endColumn": 77,
+                    "endOffset": 1035
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 77,
+                        "endOffset": 985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1040,
+                    "endColumn": 78,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 990,
+                        "endColumn": 78,
+                        "endOffset": 1064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1119,
+                    "endColumn": 79,
+                    "endOffset": 1194
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1069,
+                        "endColumn": 79,
+                        "endOffset": 1144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1199,
+                    "endColumn": 111,
+                    "endOffset": 1306
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1149,
+                        "endColumn": 111,
+                        "endOffset": 1256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1311,
+                    "endColumn": 108,
+                    "endOffset": 1415
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1261,
+                        "endColumn": 108,
+                        "endOffset": 1365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1420,
+                    "endColumn": 96,
+                    "endOffset": 1512
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1370,
+                        "endColumn": 96,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1517,
+                    "endColumn": 108,
+                    "endOffset": 1621
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1467,
+                        "endColumn": 108,
+                        "endOffset": 1571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1626,
+                    "endColumn": 102,
+                    "endOffset": 1724
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1576,
+                        "endColumn": 102,
+                        "endOffset": 1674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1729,
+                    "endColumn": 106,
+                    "endOffset": 1831
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1679,
+                        "endColumn": 106,
+                        "endOffset": 1781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1836,
+                    "endColumn": 121,
+                    "endOffset": 1953
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1786,
+                        "endColumn": 121,
+                        "endOffset": 1903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1958,
+                    "endColumn": 100,
+                    "endOffset": 2054
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1908,
+                        "endColumn": 100,
+                        "endOffset": 2004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2059,
+                    "endColumn": 159,
+                    "endOffset": 2214
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\auth_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 159,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2219,
+                    "endColumn": 162,
+                    "endOffset": 2377
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\auth_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 162,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2382,
+                    "endColumn": 160,
+                    "endOffset": 2538
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\auth_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 656,
+                        "endColumn": 160,
+                        "endOffset": 812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2543,
+                    "endColumn": 135,
+                    "endOffset": 2674
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\auth_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 817,
+                        "endColumn": 135,
+                        "endOffset": 948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2679,
+                    "endColumn": 133,
+                    "endOffset": 2808
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\auth_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 953,
+                        "endColumn": 137,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2813,
+                    "endColumn": 162,
+                    "endOffset": 2971
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\auth_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 162,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2976,
+                    "endColumn": 132,
+                    "endOffset": 3104
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2013,
+                        "endColumn": 132,
+                        "endOffset": 2141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3109,
+                    "endColumn": 176,
+                    "endOffset": 3281
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1836,
+                        "endColumn": 176,
+                        "endOffset": 2008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3286,
+                    "endColumn": 130,
+                    "endOffset": 3412
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1705,
+                        "endColumn": 130,
+                        "endOffset": 1831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3417,
+                    "endColumn": 168,
+                    "endOffset": 3581
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 172,
+                        "endOffset": 1029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3586,
+                    "endColumn": 134,
+                    "endOffset": 3716
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1570,
+                        "endColumn": 134,
+                        "endOffset": 1700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3721,
+                    "endColumn": 201,
+                    "endOffset": 3918
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1166,
+                        "endColumn": 201,
+                        "endOffset": 1363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3923,
+                    "endColumn": 201,
+                    "endOffset": 4120
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1368,
+                        "endColumn": 201,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4125,
+                    "endColumn": 131,
+                    "endOffset": 4252
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1034,
+                        "endColumn": 131,
+                        "endOffset": 1161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4257,
+                    "endColumn": 186,
+                    "endOffset": 4439
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2883,
+                        "endColumn": 186,
+                        "endOffset": 3065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4444,
+                    "endColumn": 123,
+                    "endOffset": 4563
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2759,
+                        "endColumn": 123,
+                        "endOffset": 2878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4568,
+                    "endColumn": 175,
+                    "endOffset": 4739
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 175,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4744,
+                    "endColumn": 176,
+                    "endOffset": 4916
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2582,
+                        "endColumn": 176,
+                        "endOffset": 2754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4921,
+                    "endColumn": 121,
+                    "endOffset": 5038
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2460,
+                        "endColumn": 121,
+                        "endOffset": 2577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5043,
+                    "endColumn": 189,
+                    "endOffset": 5228
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 189,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5233,
+                    "endColumn": 187,
+                    "endOffset": 5416
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 187,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5421,
+                    "endColumn": 136,
+                    "endOffset": 5553
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 136,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5558,
+                    "endColumn": 152,
+                    "endOffset": 5706
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3070,
+                        "endColumn": 152,
+                        "endOffset": 3218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5711,
+                    "endColumn": 182,
+                    "endOffset": 5889
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3598,
+                        "endColumn": 182,
+                        "endOffset": 3776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5894,
+                    "endColumn": 245,
+                    "endOffset": 6135
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3352,
+                        "endColumn": 245,
+                        "endOffset": 3593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 6140,
+                    "endColumn": 128,
+                    "endOffset": 6264
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3223,
+                        "endColumn": 128,
+                        "endOffset": 3347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 6269,
+                    "endColumn": 110,
+                    "endOffset": 6375
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3781,
+                        "endColumn": 110,
+                        "endOffset": 3887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 6380,
+                    "endColumn": 178,
+                    "endOffset": 6554
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2281,
+                        "endColumn": 178,
+                        "endOffset": 2455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 6559,
+                    "endColumn": 134,
+                    "endOffset": 6689
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2146,
+                        "endColumn": 134,
+                        "endOffset": 2276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 6694,
+                    "endColumn": 93,
+                    "endOffset": 6783
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3892,
+                        "endColumn": 93,
+                        "endOffset": 3981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 6788,
+                    "endColumn": 112,
+                    "endOffset": 6896
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\4.4.52\\res\\values-ms-rMY\\common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3986,
+                        "endColumn": 112,
+                        "endOffset": 4094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 6901,
+                    "endColumn": 100,
+                    "endOffset": 6997
+                },
+                "from": {
+                    "file": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2009,
+                        "endColumn": 100,
+                        "endOffset": 2105
+                    }
+                }
+            }
+        ]
+    }
+]

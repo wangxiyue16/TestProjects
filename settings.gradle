@@ -1,0 +1,20 @@
+include ':recycleviewtypelibrary', ':retrofitweather'
+include ':myapplication'
+include ':app'               //item可以展示多种样式的
+include ':recycleviewdemo'   //测试刷新动画的
+//include ':recycleviewtype'   //不用演示
+include ':paintdemo'          //根据手动设置值控制item分隔线的宽度
+include ':styledecoration'    //网上例子(设置item分隔线有不同样式,暂时没有研究透)
+include ':library'
+//include ':itemdecorationdemo' //例子(不是自己的,不用演示)
+include ':testdemo'             //RecycleView演示样例(整理版)
+include ':MutilSahke'
+include ':volleydemoapp'
+include ':urlfilesoperation'
+include ':sharetest'
+include ':appTest'
+include ':caijin'
+include ':handlerimageortext'
+include ':mixturetextview'
+include ':textandgraphics'
+include ':retrofittest'

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\res\\merged\\debug\\raw\\production_test_client.p12",
+        "source": "F:\\github\\TestProjects\\volleydemoapp\\src\\main\\res\\raw\\production_test_client.p12"
+    },
+    {
+        "merged": "F:\\github\\TestProjects\\volleydemoapp\\build\\intermediates\\res\\merged\\debug\\raw\\production_test_ca.bks",
+        "source": "F:\\github\\TestProjects\\volleydemoapp\\src\\main\\res\\raw\\production_test_ca.bks"
+    }
+]

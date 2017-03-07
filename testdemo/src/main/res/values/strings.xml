@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestDemo</string>
+    <string name="menu_simple">普通分隔线</string>
+    <string name="menu_paint">断点式分隔线</string>
+    <string name="menu_drawable">粗体带颜色分隔线</string>
+    <string name="menu_complex">item显示不同分隔线</string>
+    <string name="menu_simple_grid">item设置多数量数据</string>
+</resources>
